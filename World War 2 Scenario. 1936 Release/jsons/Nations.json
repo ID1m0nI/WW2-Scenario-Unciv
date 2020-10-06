@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Third Reich",
+    "leaderName": "Adolf Hitler",
+    "uniques": [""],
+    "innerColor": [0,0,0],
+    "outerColor": [127,0,0],
+    "cities": ["Berlin","Hamburg","Munich"]
+  },
+  {
+    "name": "France",
+    "leaderName": "Édouard Daladier",
+    "uniques": [""],
+    "innerColor": [255,255,255],
+    "outerColor": [0,23,155],
+    "cities": ["Paris","Orlean","Verdun"]
+  },
+]

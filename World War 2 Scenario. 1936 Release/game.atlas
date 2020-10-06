@@ -1,0 +1,545 @@
+
+game.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+BuildingIcons/Airport
+  rotate: false
+  xy: 719, 941
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingIcons/Armory 1936
+  rotate: false
+  xy: 254, 162
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Arsenal
+  rotate: false
+  xy: 396, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Civil Factory
+  rotate: false
+  xy: 1266, 1863
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+TechIcons/Militarized Industry
+  rotate: false
+  xy: 1266, 1863
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+BuildingIcons/Great War Laboratory
+  rotate: false
+  xy: 256, 60
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Laboratory 1936
+  rotate: false
+  xy: 358, 60
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Military Factory 1936
+  rotate: false
+  xy: 1572, 1719
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Military aircraft factory 1936
+  rotate: false
+  xy: 1674, 1821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Military shipyard 1936
+  rotate: false
+  xy: 1674, 1719
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Park
+  rotate: false
+  xy: 2, 406
+  size: 715, 715
+  orig: 715, 715
+  offset: 0, 0
+  index: -1
+NationIcons/France
+  rotate: false
+  xy: 904, 1663
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+NationIcons/Third Reich
+  rotate: false
+  xy: 2, 154
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ResourceIcons/Antiquity Site
+  rotate: false
+  xy: 1428, 1923
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Bison
+  rotate: false
+  xy: 719, 623
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Citrus
+  rotate: false
+  xy: 719, 521
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Cocoa
+  rotate: false
+  xy: 719, 419
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Copper
+  rotate: false
+  xy: 1938, 1923
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Crab
+  rotate: false
+  xy: 154, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Salt
+  rotate: false
+  xy: 1878, 1821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Truffles
+  rotate: false
+  xy: 1878, 1617
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Aviation
+  rotate: false
+  xy: 498, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Civil Industry
+  rotate: false
+  xy: 1734, 1923
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Conventional Army
+  rotate: false
+  xy: 1836, 1923
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Equipment 1936
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TechIcons/Ground Air Groups 1936
+  rotate: false
+  xy: 1086, 1459
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Ground Aviation
+  rotate: false
+  xy: 833, 839
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Ground Forces
+  rotate: false
+  xy: 904, 1481
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+TechIcons/Implementation Of The War Economy
+  rotate: false
+  xy: 1368, 1761
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Laboratory 1936
+  rotate: false
+  xy: 904, 1085
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+TechIcons/Light Fleet
+  rotate: false
+  xy: 458, 202
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Main Fleet 1936
+  rotate: false
+  xy: 460, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Mechanized Army
+  rotate: false
+  xy: 254, 264
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+TechIcons/Medium Fleet
+  rotate: false
+  xy: 1572, 1821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Naval Air Groups 1936
+  rotate: false
+  xy: 1776, 1821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Naval Aviation
+  rotate: false
+  xy: 1776, 1719
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Navy
+  rotate: false
+  xy: 2, 1123
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: -1
+TechIcons/Science
+  rotate: false
+  xy: 1878, 1719
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Special Project
+  rotate: false
+  xy: 1470, 1617
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Technics 1936
+  rotate: false
+  xy: 1674, 1617
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Vanguard Fleet 1936
+  rotate: false
+  xy: 662, 202
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Aircraft Gun 1936
+  rotate: false
+  xy: 154, 22
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Tank Gun 1936
+  rotate: false
+  xy: 1188, 1633
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Artillery 1936
+  rotate: false
+  xy: 1018, 1451
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Artillery Tank 1936
+  rotate: false
+  xy: 1052, 1451
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cavalry Tank 1936
+  rotate: false
+  xy: 1052, 1451
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry Tank 1936
+  rotate: false
+  xy: 1052, 1451
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Battleship 1936
+  rotate: false
+  xy: 901, 953
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Carrier 1936
+  rotate: false
+  xy: 935, 953
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Cruiser 1936
+  rotate: false
+  xy: 396, 274
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Medium Cruiser 1936
+  rotate: false
+  xy: 396, 274
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry 1936
+  rotate: false
+  xy: 460, 70
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Light Destroyer 1936
+  rotate: false
+  xy: 1428, 1893
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Medium Destroyer 1936
+  rotate: false
+  xy: 1428, 1893
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Machine Gun 1936
+  rotate: false
+  xy: 1428, 1863
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mechanized Infantry 1936
+  rotate: false
+  xy: 1980, 1893
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Submarine 1936
+  rotate: false
+  xy: 2014, 1895
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+UnitIcons/Anti-Aircraft Gun 1936
+  rotate: false
+  xy: 1086, 1561
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Anti-Tank Gun 1936
+  rotate: false
+  xy: 1266, 1761
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Artillery 1936
+  rotate: false
+  xy: 719, 725
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Artillery Tank 1936
+  rotate: false
+  xy: 904, 1265
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Attack Aircraft 1936
+  rotate: false
+  xy: 1530, 1923
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Battleship 1936
+  rotate: false
+  xy: 719, 827
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+UnitIcons/Bomber 1936
+  rotate: false
+  xy: 904, 1163
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Carrier 1936
+  rotate: false
+  xy: 1632, 1923
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cavalry Tank 1936
+  rotate: false
+  xy: 600, 304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Fighter 1936
+  rotate: false
+  xy: 1266, 1659
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Cruiser 1936
+  rotate: false
+  xy: 904, 1367
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+UnitIcons/Infantry 1936
+  rotate: false
+  xy: 1368, 1659
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Infantry Tank 1936
+  rotate: false
+  xy: 356, 162
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Light Destroyer 1936
+  rotate: false
+  xy: 901, 983
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Machine Gun 1936
+  rotate: false
+  xy: 560, 202
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mechanized Infantry 1936
+  rotate: false
+  xy: 562, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Medium Cruiser 1936
+  rotate: false
+  xy: 1470, 1821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Medium Destroyer 1936
+  rotate: false
+  xy: 1470, 1719
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Submarine 1936
+  rotate: false
+  xy: 1572, 1617
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Torpedo Bomber 1936
+  rotate: false
+  xy: 1776, 1617
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

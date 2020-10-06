@@ -1,0 +1,160 @@
+[
+  {
+    "columnNumber": 0,
+		"era": "1936",
+		"techCost": 40,
+    "buildingCost": 40,
+		"techs": [
+			{
+        "name": "Civil Industry",
+        "row": 1,
+        "uniques": ["Starting tech"],
+        "quote": "'You reasearch this tech ' - UnCiv"
+      },
+      {
+        "name": "Science",
+        "row": 2,
+        "uniques": ["Starting tech"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Ground Forces",
+        "row": 4,
+        "uniques": ["Starting tech"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Navy",
+        "row": 6,
+        "uniques": ["Starting tech"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Aviation",
+        "row": 8,
+        "uniques": ["Starting tech"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+    ]
+  },
+  {
+    "columnNumber": 1,
+    "era": "1936",
+    "techCost": 60,
+    "buildingCost": 60,
+    "techs": [
+      {
+        "name": "Implementation Of The War Economy",
+        "row": 1,
+        "uniques": ["+5% production for combat units"],
+        "prerequisites": ["Civil Industry"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Laboratory 1936",
+        "row": 2,
+        "uniques": ["+10% science in all cities"],
+        "prerequisites": ["Science"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Mechanized Army",
+        "row": 4,
+        "uniques": ["+2% production for land units"],
+        "prerequisites": ["Ground Forces"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Conventional Army",
+        "row": 5,
+        "uniques": ["+2% production for land units"],
+        "prerequisites": ["Ground Forces"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Light Fleet",
+        "row": 6,
+        "uniques": ["+2% production for naval units"],
+        "prerequisites": ["Navy"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Medium Fleet",
+        "row": 7,
+        "uniques": ["+2% production for naval units"],
+        "prerequisites": ["Navy"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Ground Aviation",
+        "row": 8,
+        "uniques": ["+2% production for air units"],
+        "prerequisites": ["Aviation"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Naval Aviation",
+        "row": 9,
+        "uniques": ["+2% production for air units"],
+        "prerequisites": ["Aviation"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      }
+    ]
+  },
+  {
+    "columnNumber": 2,
+    "era": "1936",
+    "techCost": 150,
+    "buildingCost": 100,
+    "techs": [
+      {
+        "name": "Militarized Industry"
+        "row": 1,
+        "prerequisites": ["Implementation Of The War Economy"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Special Project",
+        "row": 3,
+        "prerequisites": ["Laboratory 1936"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Technics 1936",
+        "row": 4,
+        "prerequisites": ["Mechanized Army"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Equipment 1936",
+        "row": 5,
+        "prerequisites": ["Conventional Army"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Vanguard Fleet 1936",
+        "row": 6,
+        "prerequisites": ["Light Fleet"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Main Fleet 1936",
+        "row": 7,
+        "prerequisites": ["Medium Fleet"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Ground Air Groups 1936"
+        "row": 8,
+        "prerequisites": ["Ground Aviation"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      },
+      {
+        "name": "Naval Air Groups 1936"
+        "row": 9,
+        "prerequisites": ["Naval Aviation"],
+        "quote": "'You reasearch this tech' - UnCiv"
+      }
+    ]
+  }
+]

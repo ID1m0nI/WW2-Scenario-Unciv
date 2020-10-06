@@ -1,0 +1,168 @@
+[
+
+	{
+		"name": "Farm",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Science",
+	},
+	{
+		"name": "Lumber mill",
+		"terrainsCanBeBuiltOn": ["Forest"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Science",
+	},
+	{
+		"name": "Mine",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Navy",
+	},
+	{
+		"name": "Trading post",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Navy",
+	},
+
+	// Resource-specific
+	{
+		"name": "Camp",
+		"resourceTerrainAllow": ["Forest"],
+		"turnsToBuild": 7,
+		"techRequired": "Science",
+	},
+	{
+		"name": "Oil well",
+		"turnsToBuild": 9,
+		"techRequired": "Ground Forces",
+	},
+	{
+		"name": "Pasture",
+		"turnsToBuild": 8,
+		"techRequired": "Ground Forces",
+	},
+	{
+		"name": "Plantation",
+		"turnsToBuild": 6,
+		"gold": 1,
+		"techRequired": "Ground Forces",
+	},
+	{
+		"name": "Quarry",
+		"turnsToBuild": 8,
+		"techRequired": "Aviation",
+	},
+	{
+		"name": "Fishing Boats",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"food": 1,
+		"techRequired": "Aviation",
+	},
+
+	// Military improvement
+	{
+		"name": "Fort",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+		"turnsToBuild": 6,
+		"techRequired": "Mechanized Army",
+		"uniques": ["Gives a defensive bonus of [50]%", "Can be built outside your borders"]
+	},
+
+	// Transportation
+	{
+		"name": "Road",
+		"turnsToBuild": 4,
+		"techRequired": "Mechanized Army",
+		"uniques": ["Can be built outside your borders"]
+	},
+	{
+		"name": "Railroad",
+		"turnsToBuild": 4,
+		"techRequired": "Mechanized Army",
+		"uniques": ["Can be built outside your borders"]
+	},
+
+	// Removals
+	{
+		"name": "Remove Forest",
+		"turnsToBuild": 4,
+		"terrainsCanBeBuiltOn": ["Forest"],
+		"techRequired": "Light Fleet",
+		"uniques": ["Can be built outside your borders"]
+	},
+	{
+		"name": "Remove Jungle",
+		"turnsToBuild": 7,
+		"terrainsCanBeBuiltOn": ["Jungle"],
+		"techRequired": "Light Fleet",
+		"uniques": ["Can be built outside your borders"]
+	},
+	{
+		"name": "Remove Fallout",
+		"turnsToBuild": 8,
+		"terrainsCanBeBuiltOn": ["Fallout"],
+		"techRequired": "Conventional Army",
+		"uniques": ["Can be built outside your borders"]
+	},
+	{
+		"name": "Remove Marsh",
+		"turnsToBuild": 6,
+		"terrainsCanBeBuiltOn": ["Marsh"],
+		"techRequired": "Conventional Army",
+		"uniques": ["Can be built outside your borders"]
+	},
+
+	// These are unique and have unique in-game checks related to them
+	{
+		"name": "Remove Road",
+		"turnsToBuild": 2,
+		"techRequired": "Implementation Of The War Economy",
+		"uniques": ["Can be built outside your borders"]
+	},
+	{
+		"name": "Remove Railroad",
+		"turnsToBuild": 2,
+		"techRequired": "Implementation Of The War Economy",
+		"uniques": ["Can be built outside your borders"]
+	},
+	{
+		"name": "Cancel improvement order",
+		"uniques": ["Can be built outside your borders"]
+	},
+
+	// Great Person improvements
+	{
+		"name": "Academy",
+		"science": 8,
+		"uniques": ["Great Improvement"]
+		// in Gods & Kings academy will also have "[+2 Science] once [Atomic Theory] is discovered"
+	},
+	{
+		"name": "Landmark",
+		"culture": 6,
+		"uniques": ["Great Improvement"]
+	},
+	{
+		"name": "Manufactory",
+		"production": 4,
+		"uniques": ["Great Improvement"]
+	},
+	{
+		"name": "Customs house",
+		"gold": 4,
+		"uniques": ["Great Improvement"]
+	},
+	{
+		"name": "Citadel",
+		"uniques": ["Gives a defensive bonus of [100]%", "Deal 30 damage to adjacent enemy units", "Great Improvement"]
+	},
+
+	{ "name": "Ancient ruins" },
+	{ "name": "City ruins" },
+	{ "name": "Barbarian encampment" }
+]
